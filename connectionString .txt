@@ -1,0 +1,3 @@
+
+
+MONGODB_URL = mongodb+srv://User12345:<>@youthrive.4kmw3go.mongodb.net/?retryWrites=true&w=majority&appName=youthrive
